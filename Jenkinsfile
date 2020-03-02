@@ -1,2 +1,2 @@
-@Library('oct-shared@master')_
-mvnbuild()
+@Library('Shared-lalith@master')_
+mavbuild()
